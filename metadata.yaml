@@ -1,0 +1,31 @@
+_repo: Guerra-de-razasNegros-contra-Blancos-en-Cuba_37747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Capmany, José M.
+    alias: Capmany, Jose M.
+    gutenberg_agent_id: '39029'
+    url: http://www.gutenberg.org/2009/agents/39029
+  - agent_name: Conte, Rafael
+    birthdate: 1877
+    gutenberg_agent_id: '39028'
+    url: http://www.gutenberg.org/2009/agents/39028
+description: ''
+gutenberg_issued: '2011-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37747'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cuba -- Race relations'
+- !lcsh 'Blacks -- Cuba'
+- !lcsh 'Race War, Cuba, 1912'
+- !lcc 'F1751'
+title: Guerra de razas (Negros contra Blancos en Cuba)
+url: http://www.gutenberg.org/ebooks/37747
